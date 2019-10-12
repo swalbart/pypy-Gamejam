@@ -23,9 +23,9 @@ while True:
     if cpx.touch_A6:
         cpx.pixels[4] = (255, 0, 0)
     if cpx.touch_A7:
-        cpx.pixels[0] = (0, 0, 0,)
-        cpx.pixels[2] = (0, 0, 0,)
-        cpx.pixels[4] = (0, 0, 0,)
-        cpx.pixels[5] = (0, 0, 0,)
-        cpx.pixels[7] = (0, 0, 0,)
-        cpx.pixels[9] = (0, 0, 0,)
+        cpx.pixels[0] = (0, 0, 0)
+        cpx.pixels[2] = (0, 0, 0)
+        cpx.pixels[4] = (0, 0, 0)
+        cpx.pixels[5] = (0, 0, 0)
+        cpx.pixels[7] = (0, 0, 0)
+        cpx.pixels[9] = (0, 0, 0)
